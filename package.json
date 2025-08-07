@@ -4,9 +4,7 @@
   "description": "A simple website deployed to S3 via GitHub Actions",
   "main": "script.js",
   "scripts": {
-    "test": "jest"
   },
   "devDependencies": {
-    "jest": "^29.6.0"
   }
 }
